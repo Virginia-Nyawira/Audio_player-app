@@ -1,6 +1,7 @@
-# audio_ui
+# Assets audio player
 
-A new Flutter application.
+Audio player to play audio stored in assets files directory. The app has 
+built in media functions to play audio files.
 
 ## Getting Started
 
