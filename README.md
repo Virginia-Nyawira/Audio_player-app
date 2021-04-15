@@ -3,6 +3,10 @@
 Audio player to play audio stored in assets files directory. The app has 
 built in media functions to play audio files.
 
+![audio1](https://user-images.githubusercontent.com/40716176/114832552-453bab80-9dd7-11eb-8198-703e21f97d24.jpg)
+
+![audio2](https://user-images.githubusercontent.com/40716176/114832600-52f13100-9dd7-11eb-8bdf-cfa4ee94aeac.jpg)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
